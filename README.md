@@ -6,7 +6,6 @@ A production-grade, cost-optimized, Retrieval-Augmented Generation (RAG) chatbot
 - **Deterministic Guardrails**: Prompt injection, semantic domain, retrieval, and output guardrails running locally without LLM usage.
 - **Hybrid Retrieval**: Combines FAISS (dense embeddings) and BM25 (keyword matching) for robust semantic and lexical search.
 - **Local LLM**: Uses Phi-3 Mini strictly for compliant answer generation based ONLY on the retrieved context. No hallucinations allowed.
-- **Full Evaluation Framework**: Built-in scripts to evaluate hallucination rates, gatekeeper accuracy, and retrieval success against a 30-query dataset.
 
 ## Setup Instructions
 

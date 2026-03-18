@@ -1,0 +1,163 @@
+# OmniMart Retail Company Policies & Information
+
+## 1. Return & Refund Policy
+
+1.1 Standard Returns
+Customers may return most new, unopened items sold and fulfilled by OmniMart within 30 days of delivery for a full refund.
+During the holidays, items shipped by OmniMart between November 1 and December 31 can be returned until January 31 of the following year.
+Return shipping is free for standard returns using our provided prepaid labels. If you choose to use your own shipping method, you will be responsible for the cost.
+Refunds are typically processed within 3-5 business days after we receive your return.
+
+1.2 Electronics Returns
+Electronics (including laptops, tablets, smartphones, and cameras) must be returned within 14 days of purchase.
+All electronics must include original packaging, manuals, and accessories.
+If a device has been opened but is not defective, a 15% restocking fee will apply.
+Defective electronics can be exchanged for the exact same item within 30 days of purchase without a restocking fee.
+Apple products follow a strict 14-day return window, opened or unopened.
+
+1.3 Non-Returnable Items
+The following items cannot be returned:
+- Gift cards and prepaid game cards.
+- Downloadable software products.
+- Opened unsealed software or video games (can only be exchanged for the same title if defective).
+- Personal care items (toothbrushes, shavers) that have been opened.
+- Custom-made or personalized products.
+
+1.4 Damaged or Defective Items
+If you receive a defective or damaged item, please contact our support team within 48 hours of delivery.
+We will arrange for a free replacement or full refund, including original shipping costs.
+
+## 2. Shipping & Delivery Methods
+
+2.1 Standard Shipping
+Standard shipping is free on all orders over $50.
+For orders under $50, standard shipping costs $5.99.
+Delivery typically takes 5-7 business days within the contiguous United States.
+Orders are processed within 1-2 business days before shipping.
+
+2.2 Expedited Shipping
+2-Day Shipping is available for $12.99 per order.
+Next-Day Delivery is available for $19.99 per order.
+Expedited orders must be placed before 2:00 PM EST to be shipped the same day. Orders placed after 2:00 PM EST will ship the following business day.
+
+2.3 International Shipping
+We currently ship to Canada, Mexico, the UK, and the EU.
+International standard shipping takes 10-21 business days and costs a flat rate of $25.00.
+Customers are responsible for any customs duties, import taxes, or brokerage fees applied by the destination country.
+We do not offer expedited shipping for international orders.
+
+2.4 P.O. Boxes and APO/FPO
+We ship to P.O. Boxes and APO/FPO addresses using USGS Standard tracking. Expedited shipping is not available for these addresses.
+Delivery to APO/FPO addresses may take up to 45 days.
+
+## 3. Warranties & Repairs
+
+3.1 OmniMart Hardware Warranty
+All OmniMart house-brand electronics come with a 1-year limited manufacturer warranty covering defects in materials and workmanship.
+This warranty does not cover accidental damage (drops, spills), theft, or normal wear and tear.
+To file a warranty claim, you must provide your original receipt or order number.
+
+3.2 Extended Protection Plans
+Customers can purchase OmniProtect extended warranties for eligible electronics and appliances within 30 days of the original purchase.
+OmniProtect covers accidental damage (such as screen cracks and liquid damage) from day one.
+OmniProtect plans last for 2 or 3 years depending on the tier purchased.
+Repairs under OmniProtect require a $49 deductible for smartphones and laptops, and a $29 deductible for tablets and smartwatches.
+
+3.3 Third-Party Manufacturer Warranties
+Items produced by third-party manufacturers (e.g., Sony, Samsung, LG) carry their respective manufacturer warranties.
+OmniMart does not process these warranty claims after the standard 30-day return window; customers must contact the manufacturer directly.
+
+3.4 Professional Repair Services
+OmniMart offers in-store repair services for smartphones, laptops, and desktop computers.
+Diagnostic fees are $35, which will be waived if you choose to proceed with the repair.
+Battery replacements for smartphones start at $69.99.
+Screen repairs for smartphones start at $129.99.
+All OmniMart repairs come with a 90-day parts and labor guarantee.
+
+## 4. Payment Methods & Pricing
+
+4.1 Accepted Payment Methods
+We accept Visa, MasterCard, American Express, and Discover credit/debit cards.
+Digital wallets including Apple Pay, Google Pay, and PayPal are accepted during online checkout.
+We do not accept personal checks or money orders.
+
+4.2 Store Credit and Gift Cards
+OmniMart Gift Cards do not expire and have no maintenance fees.
+Store credit issued for returns without a receipt is valid for 1 year from the date of issue.
+Gift cards cannot be redeemed for cash unless required by law.
+
+4.3 Price Matching
+We offer price matching for identical items sold by recognized major competitors (e.g., Target, Walmart, Best Buy, Amazon).
+The item must be in stock at the competitor at the time of the request.
+We do not price match items sold by third-party marketplace sellers on Amazon or Walmart.com.
+We do not price match special events (Black Friday, Cyber Monday, clearance sales, or limited-quantity offers).
+
+4.4 Sales Tax
+Sales tax is automatically calculated based on the shipping destination according to local and state laws.
+
+## 5. OmniMart Rewards Program
+
+5.1 Earning Points
+Members earn 1 point for every $1 spent on qualifying purchases.
+Bonus points are offered during special promotional periods.
+Points are credited to your account 30 days after the purchase.
+
+5.2 Redeeming Points
+Every 100 points can be redeemed for a $5 OmniMart reward certificate.
+Reward certificates expire 60 days after they are issued.
+Points themselves do not expire as long as there is purchasing activity on the account at least once every 12 months.
+
+5.3 Elite Tier Status
+Customers who spend over $1,000 in a calendar year automatically upgrade to the Elite Tier.
+Elite Tier benefits include free 2-Day Shipping on all orders (no minimum), extended 60-day return window (except for electronics), and access to exclusive flash sales.
+
+## 6. Privacy & Security
+
+6.1 Data Collection
+We collect personal information such as name, shipping address, email, and payment details to process orders.
+We use cookies on our website to remember your preferences and shopping cart items.
+
+6.2 Data Sharing
+We do not sell your personal data to third-party marketers.
+We share data with trusted third parties only to the extent necessary to fulfill your order (e.g., FedEx, UPS, Stripe payment processor).
+
+6.3 Account Security
+We recommend using strong, unique passwords for your OmniMart account.
+Multi-factor authentication (MFA) is available and recommended for all accounts.
+If you suspect unauthorized access, contact support@omnimart.example.com immediately.
+
+## 7. Customer Support & Contact Information
+
+7.1 Support Hours
+Our customer support team is available Monday through Friday from 8:00 AM to 10:00 PM EST.
+Weekend support hours are 10:00 AM to 6:00 PM EST.
+
+7.2 Contact Channels
+Phone Support: 1-800-555-0199
+Email: support@omnimart.example.com
+Live Chat: Available on our website during operating hours.
+
+7.3 Store Locations
+We have over 500 retail locations across the United States. 
+You can find the store nearest you using the Store Locator on our website.
+In-store pickup for online orders is available at all locations. Orders placed before 4:00 PM are usually ready for pickup within 2 hours.
+
+## 8. Product Categories and Specific Details
+
+8.1 Video Games and Consoles
+Consoles can be returned within 30 days if unopened. If opened, they are subject to a 15% restocking fee.
+Digital game codes are final sale and cannot be refunded under any circumstances.
+Used games can be returned within 7 days for a full refund.
+
+8.2 Appliances (Large)
+Large appliances (refrigerators, washers, dryers) cannot be returned in-store. They require a scheduled pickup for returns.
+A $50 pickup fee applies for returning non-defective large appliances.
+Installation fees paid at the time of purchase are non-refundable.
+
+8.3 Furniture
+Furniture must be returned unassembled and in its original packaging within 30 days.
+Assembled furniture cannot be returned unless it arrived damaged.
+
+8.4 Apparel and Clothing
+Clothing and shoes must be unworn, unwashed, and have the original tags attached to be eligible for a return.
+Intimate apparel, swimwear, and earrings are final sale for hygiene reasons.
